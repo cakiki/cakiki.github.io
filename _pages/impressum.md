@@ -5,4 +5,7 @@ title: "Impressum"
 description: "Impressum"
 ---
 
-TODO
+Christopher Akiki
+Humboldtstraße 25
+04105 Leipzig
+Telefon:+49 341 97 - 39330
