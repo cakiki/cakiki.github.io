@@ -6,7 +6,7 @@ subtitle: Research Scientist.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: chris_400x400.jpg
   image_circular: true
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
