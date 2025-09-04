@@ -9,10 +9,10 @@ last_name: Akiki
 contact_note: >
   You can reach me at [name]topher.[lastname]@gmail.com
 description: >
-  Researcher and stuff
+  Researcher
 footer_text: >
   Made with <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en
 icon: 🐈
 
