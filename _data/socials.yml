@@ -1,12 +1,12 @@
 
 bluesky_url: https://cakiki.bsky.social
-github_username: cakiki # your GitHub user name
+github_username: cakiki
 kaggle_id: cakiki
 linkedin_username: christopherakiki
 orcid_id: 0000-0002-1634-5068
-scholar_userid: PzSym7oAAAAJ # your Google Scholar ID
+scholar_userid: PzSym7oAAAAJ
 x_username: christopher
-custom_social: # can be any name here other than the ones already defined above
+custom_social:
   logo: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.svg
   title: Hugging Face
   url: https://huggingface.co/christopher
