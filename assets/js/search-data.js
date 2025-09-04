@@ -511,25 +511,11 @@ ninja.data = [{
           window.open("https://dblp.org/pid/277/0703.html", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/cakiki", "_blank");
-        },
-      },{
-        id: 'social-hal',
-        title: 'HAL',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://cv.hal.science/christopher-akiki", "_blank");
         },
       },{
         id: 'social-kaggle',
@@ -553,25 +539,11 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-1634-5068", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=PzSym7oAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-semanticscholar',
-        title: 'Semantic Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.semanticscholar.org/author/2003696840", "_blank");
         },
       },{
         id: 'social-x',
