@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cakiki.github.io/al-folio/sitemap.xml
+Sitemap: https://cakiki.github.io/sitemap.xml
