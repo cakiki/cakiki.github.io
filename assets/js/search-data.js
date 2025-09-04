@@ -501,14 +501,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("cakiki.bsky.social", "_blank");
-        },
-      },{
-        id: 'social-dblp',
-        title: 'DBLP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://dblp.org/pid/277/0703.html", "_blank");
+          window.open("https://cakiki.bsky.social", "_blank");
         },
       },{
         id: 'social-github',
