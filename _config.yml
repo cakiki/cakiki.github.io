@@ -18,7 +18,7 @@ icon: 🐈
 
 url: https://cakiki.github.io
 baseurl:
-last_updated: true
+last_updated: false
 impressum_path: /impressum
 back_to_top: true
 
